@@ -10133,3 +10133,17 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+.carousel-indicators li {
+  filter: invert(100%);
+}
+.carousel-control-prev-icon, .carousel-control-next-icon {
+  filter: invert(100%);
+}
+.carousel-caption{
+  margin: top 10px;
+  height: min-content;
+  background-color: rgba(95, 158, 160, 0.75);
+}
+.carousel {
+  width: 80%;
+}
