@@ -1,0 +1,67 @@
+
+.bm-burger-button {
+    position: fixed;
+    width: 2.4rem;
+    height: 1.7rem;
+    left: 3%;
+    top: 3%;
+    z-index: 10 !important;
+}
+
+.bm-menu {
+    width: 100%;
+    overflow: hidden !important;
+}
+
+.bm-menu-wrap {
+    z-index: 200 !important;
+}
+
+.bm-overlay {
+    z-index: 100 !important;
+}
+
+.bm-burger-bars {
+    background: #373a47;
+}
+
+.bm-cross {
+    background-color: whitesmoke;
+}
+
+.bm-cross-button{
+    width: 1.5rem !important;
+    height: 1.5rem !important;
+    top: 1.75vh !important;
+    right: 1.75vh !important;
+}
+
+.bm-morph-shape {
+    fill: #373a47;
+}
+
+.bm-item-list {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+
+.navbar-item {
+    color: floralwhite;
+    font-size: xx-large;
+    font-family: 'Train One' !important;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+.navbar-item:focus {
+    outline: none;
+}
+
+#home {
+    margin-top: 1vh
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Train+One&display=swap');

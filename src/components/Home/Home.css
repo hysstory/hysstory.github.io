@@ -1,0 +1,52 @@
+.home {
+    height: 100vh;
+    display: flex;
+}
+
+.home-left-container {
+    background: black;
+    height: 100vh;
+    width: 50%;
+    color: white;
+}
+
+.home-right-container {
+    height: 100vh;
+    width: 50%;
+}
+
+.home-name {
+    font-size: 6.5rem;
+    text-align: right;
+    padding-top: 35%;
+    padding-right: 4vw;
+    font-family: 'Saira Semi Condensed';
+}
+
+
+.lastname {
+    font-size: 6.5rem;
+    padding-top: 35%;
+    padding-left: 4vw;
+    padding-bottom: 5vh;
+    font-family: 'Saira Semi Condensed';
+
+}
+
+.rotate-text {
+    padding-left: 11vw;
+    font-size: xx-large;
+    font-weight: 650;
+}
+
+.react-rotating-text-cursor {
+    animation: blinking-cursor 0.8s cubic-bezier(0.68, 0.01, 0.01, 0.99) 0s infinite;
+}
+
+@keyframes blinking-cursor {
+    0% { opacity: 0; }
+    50% { opacity: 1; }
+    100% { opacity: 0; }
+  }
+
+@import url('https://fonts.googleapis.com/css2?family=Saira+Semi+Condensed&display=swap');
