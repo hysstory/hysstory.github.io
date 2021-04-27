@@ -13,6 +13,7 @@
 
 .contact-heading {
     padding: 5rem;
+    margin-left: 5rem;
     font-size: 5rem;
     font-weight: lighter;
     text-align: center;
@@ -38,7 +39,7 @@
     background: #27383f;
     box-shadow: 1rem 1rem 1rem rgba(0, 0, 0, 0.9);
     z-index: 1;
-    border-radius: 1rem;
+    border-radius: 50%;
 }
 
 .contact-info h2 {
@@ -62,7 +63,7 @@ li svg {
     width: 50%;
     height: 100%;
     box-shadow: 1rem 1rem 1rem rgba(255, 255, 255, .3);
-    border-radius: 1rem;
+    border-radius: 50%;
 }
 
 .form-heading {
