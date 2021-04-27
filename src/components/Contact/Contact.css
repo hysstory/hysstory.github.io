@@ -28,7 +28,7 @@
     display: flex;
     margin-top: auto;
     margin-bottom: auto;
-    left: 40vh;
+    left: 35vh;
     flex-direction: column;
     justify-content: space-evenly;
     text-align: center;
@@ -38,7 +38,7 @@
     background: #27383f;
     box-shadow: 1rem 1rem 1rem rgba(0, 0, 0, 0.9);
     z-index: 1;
-    border-radius: 100%;
+    border-radius: 1rem;
 }
 
 .contact-info h2 {
@@ -62,7 +62,7 @@ li svg {
     width: 50%;
     height: 100%;
     box-shadow: 1rem 1rem 1rem rgba(255, 255, 255, .3);
-    border-radius: 100%;
+    border-radius: 1rem;
 }
 
 .form-heading {
