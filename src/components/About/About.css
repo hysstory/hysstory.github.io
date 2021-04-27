@@ -55,6 +55,10 @@
     font-size: 1.42rem;
 }
 
+.space {
+    height: 1rem;
+}
+
 .transition-container {
     display: flex;
     height: 30vh;
