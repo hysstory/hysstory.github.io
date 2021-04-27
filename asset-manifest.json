@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/hysstory.github.io/static/css/main.f047580a.chunk.css",
-    "main.js": "/hysstory.github.io/static/js/main.182a4399.chunk.js",
-    "main.js.map": "/hysstory.github.io/static/js/main.182a4399.chunk.js.map",
+    "main.js": "/hysstory.github.io/static/js/main.39b9b687.chunk.js",
+    "main.js.map": "/hysstory.github.io/static/js/main.39b9b687.chunk.js.map",
     "runtime-main.js": "/hysstory.github.io/static/js/runtime-main.a459297e.js",
     "runtime-main.js.map": "/hysstory.github.io/static/js/runtime-main.a459297e.js.map",
     "static/css/2.2aa38b9c.chunk.css": "/hysstory.github.io/static/css/2.2aa38b9c.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.2aa38b9c.chunk.css",
     "static/js/2.fcbef688.chunk.js",
     "static/css/main.f047580a.chunk.css",
-    "static/js/main.182a4399.chunk.js"
+    "static/js/main.39b9b687.chunk.js"
   ]
 }
