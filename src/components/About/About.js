@@ -34,7 +34,7 @@ const About = () => {
                     through challenging and meaningful work<br/>
                     <div className="space"></div>
                     in the meanwhile, I am learning new things, <br/>
-                    coming up with ideas, <br/> and working on making applications<br/>
+                    coming up with ideas, <br/> and making applications<br/>
                     to help the people around me <br/>
                     in little aspects of their life <br/>
                     <div className="space"></div>
