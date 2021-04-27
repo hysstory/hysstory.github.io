@@ -21,7 +21,7 @@ const Skills = () => {
                                 Spring Framework & Spring Boot
                             </li>
                             <li>
-                                REST API
+                                Data Structures
                             </li>
                         </ul>
                     </div>
@@ -39,6 +39,9 @@ const Skills = () => {
                             </li>
                             <li>
                                 HTML & CSS
+                            </li>
+                            <li>
+                                REST API Integration
                             </li>
                         </ul>
                     </div>
