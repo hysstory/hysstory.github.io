@@ -30,13 +30,14 @@ const About = () => {
                 <p>
                     Hello! <br/> I am Daniel Han, <br/>
                     a software engineer based out of Atlanta, <br/>
-                    hoping to grow in knowledge and character <br/>
-                    through challenging and meaningful work<br/><br/>
-
-                    in the meanwhile, I am coming up with ideas, <br/>
-                    and working on making applications <br/>
+                    looking to grow in knowledge and character <br/>
+                    through challenging and meaningful work<br/>
+                    <div className="space"></div>
+                    in the meanwhile, I am learning new things, <br/>
+                    coming up with ideas, <br/> and working on making applications<br/>
                     to help the people around me <br/>
-                    in little aspects of their life <br/> <br/>
+                    in little aspects of their life <br/>
+                    <div className="space"></div>
                     as such, I hope to make the world a better place <br/>
                     one line of code at a time
 
