@@ -28,13 +28,13 @@ const About = () => {
             </div>
             <div className="about-text">
                 <p>
-                    Hello! <br/> I am Daniel Han, <br/>
+                    Hello! <br/> my name is Daniel Han, <br/>
                     a software engineer based out of Atlanta, <br/>
                     looking to grow in knowledge and character <br/>
                     through challenging and meaningful work<br/>
                     <div className="space"></div>
-                    in the meanwhile, I am learning new things, <br/>
-                    coming up with ideas, <br/> and making applications<br/>
+                    in the meantime, I am coming up with ideas,<br/>
+                    and making applications<br/>
                     to help the people around me <br/>
                     in little aspects of their life <br/>
                     <div className="space"></div>

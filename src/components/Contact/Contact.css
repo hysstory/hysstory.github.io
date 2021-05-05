@@ -39,7 +39,7 @@
     background: #27383f;
     box-shadow: 1rem 1rem 1rem rgba(0, 0, 0, 0.9);
     z-index: 1;
-    border-radius: 50%;
+    border-radius: 1rem;
 }
 
 .contact-info h2 {
@@ -53,7 +53,7 @@
 
 li svg {
     font-size: larger;
-    width: 2rem
+    width: 2.5rem
 }
 
 .contact-form {
@@ -63,7 +63,7 @@ li svg {
     width: 50%;
     height: 100%;
     box-shadow: 1rem 1rem 1rem rgba(255, 255, 255, .3);
-    border-radius: 50%;
+    border-radius: 1rem;
 }
 
 .form-heading {
@@ -143,6 +143,7 @@ li svg {
     border: none;
 	background: #324851;
     border-radius: 1rem;
+    box-shadow: .7rem .7rem .75rem rgba(0, 0, 0, 0.9);
 }
 
 .btn h2 {
